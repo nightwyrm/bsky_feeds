@@ -1,0 +1,31 @@
+{
+    "displayName": "AoNZ Politics",
+    "blocks": [
+        {
+            "id": "aaah34b7w5v3e",
+            "type": "input",
+            "inputType": "firehose",
+            "firehoseSeconds": 604800
+        },
+        {
+            "id": "aaah34b7w4jfw",
+            "type": "regex",
+            "value": "\\bnzpol|#nzpol\\b",
+            "caseSensitive": false
+        },
+        {
+            "type": "regex",
+            "value": "shooter|shooting|massacre|#nsfw|ar-15|mega.nz|kiwifarms",
+            "caseSensitive": false,
+            "id": "aaah34ipm2yz4",
+            "invert": true,
+            "target": "text|alt_text|link"
+        },
+        {
+            "id": "aaah34b7w5xfi",
+            "type": "sort",
+            "sortType": "created_at"
+        }
+    ],
+    "license": "MIT"
+}

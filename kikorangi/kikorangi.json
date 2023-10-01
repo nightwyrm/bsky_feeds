@@ -1,0 +1,39 @@
+{
+    "displayName": "Kikorangi",
+    "blocks": [
+        {
+            "id": "aaadfjfgucv2q",
+            "type": "input",
+            "inputType": "firehose",
+            "firehoseSeconds": 604800
+        },
+        {
+            "id": "aaadfjfgucbiq",
+            "type": "regex",
+            "value": "new zealand|\\bnz\\b|aotearoa|aonz|#kiwi|p[oō]neke|m[aā]ori|p[aā]keh[aā]|tauiwi|auckland|t[aā]maki|kirikiriroa|waikato|taranaki|whanganui|taup[oō]|k[aā]piti|Christchurch|[oō]tautahi|dunedin|[oō]tepoti|whakat[uū]|ahuriri|heretaunga|\\bnzer\\b|kikorangi|🇳🇿[[:blank:]]|🇳🇿$",
+            "caseSensitive": false,
+            "target": "text|alt_text|link"
+        },
+        {
+            "type": "regex",
+            "value": "shooter|shooting|massacre|#nsfw|ar-15|mega.nz|nzpol|kiwifarms",
+            "caseSensitive": false,
+            "id": "aaaegqbn2x4yg",
+            "invert": true,
+            "target": "text|alt_text|link"
+        },
+        {
+            "type": "remove",
+            "subject": "list",
+            "value": null,
+            "id": "aaaehhgkgrjg4",
+            "listUri": "at://did:plc:65yo7ynzcyp4kpwsienyukrz/app.bsky.graph.list/3k652cuynyk2e"
+        },
+        {
+            "id": "aaadfjfgubgem",
+            "type": "sort",
+            "sortType": "created_at"
+        }
+    ],
+    "license": "MIT"
+}
