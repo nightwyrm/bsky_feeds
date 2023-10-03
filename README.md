@@ -1,6 +1,8 @@
 # BlueSky Feeds
 A repo of [BlueSky](https://bsky.app) feeds for transparency so that people can view the filters, and sharing so that people can federate the feeds i.e. create their own versions.
 
+**Note:** Please be conscious of the appropriate use of kupu in any feeds created. I inadvertently made a misappropriation in mine which I regret and apologise for.
+
 ## Federating Instructions
 To create your own version of one of these feeds:
 
