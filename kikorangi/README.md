@@ -2,31 +2,31 @@
 This is a reader-friendly view of the Kikorangi feed filters. Note: keywords are not case-specific.
 
 ## Included Keywords
-The feed searches for these keywords in post text, URLs, and image alt-text. The feed also allows for where macrons have been omitted from kupu (except for Tāmaki which must use the macron to prevent nsfw anime content coming through).
+The feed searches for these keywords in post text, URLs, and image alt-text. The use of macrons in the relevant kupu must be used for posts to be included in the feed.
 
 |Place Names|People|General|
 |---|---|---|
-New Zealand|Pākehā|AoNZ
-Aotearoa|Māori|NZ
-Pōneke|Tauiwi|#kiwi
+New Zealand|Pākehā/Paakekaa|AoNZ
+Aotearoa|Māori/Maaori|NZ
+Pōneke/Pooneke|Tauiwi|#kiwi
 Auckland||NZer
-Tāmaki||Kikorangi
+Tāmaki/Taamaki||Kikorangi
 Kirikiriroa||
 Waikato||
 Taranaki||
 Whanganui||
-Taupō||
-Kāpiti||
+Taupō/Taupoo||
+Kāpiti/Kaapiti||
 Christchurch||
-Ōtautahi||
+Ōtautahi/Ootautahi||
 Dunedin||
-Ōtepoti||
-Whakatū||
+Ōtepoti/Ootepoti||
+Whakatū/Whakatuu||
 Ahuriri||
 Heretaunga||
 
 ## Excluded Words
-The feed searches for these keywrods in post text, URLs, and image alt-text.
+The feed searches for these keywords in post text, URLs, and image alt-text.
 
 |Keywords|
 |---|
