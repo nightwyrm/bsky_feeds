@@ -6,7 +6,7 @@ The feed searches for these keywords in post text, URLs, and image alt-text. The
 
 |Place Names|People|General|
 |---|---|---|
-New Zealand|Pākehā/Paakekaa|AoNZ
+New Zealand|Pākehā/Paakehaa|AoNZ
 Aotearoa|Māori/Maaori|NZ
 Pōneke/Pooneke|Tauiwi|#kiwi
 Auckland||NZer
