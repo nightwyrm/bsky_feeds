@@ -11,7 +11,7 @@ Aotearoa|Māori/Maaori|NZ
 Pōneke/Pooneke|Tauiwi|#kiwi
 Auckland||NZer
 Tāmaki/Taamaki||Kikorangi
-Kirikiriroa||
+Kirikiriroa||eqnz
 Waikato||
 Taranaki||
 Whanganui||
