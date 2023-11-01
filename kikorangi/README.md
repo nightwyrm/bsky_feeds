@@ -2,7 +2,7 @@
 This is a reader-friendly view of the Kikorangi feed filters. Note: keywords are not case-specific.
 
 ## Included Keywords
-The feed searches for these keywords in post text, URLs, and image alt-text. The feed also allows for where macrons have been omitted from kupu.
+The feed searches for these keywords in post text, URLs, and image alt-text. The feed also allows for where macrons have been omitted from kupu (except for Tāmaki which must use the macron to prevent nsfw anime content coming through).
 
 |Place Names|People|General|
 |---|---|---|

@@ -10,7 +10,7 @@
         {
             "id": "aaadfjfgucbiq",
             "type": "regex",
-            "value": "new zealand|\\bnz\\b|aotearoa|aonz|#kiwi|p[oō]neke|m[aā]ori|p[aā]keh[aā]|tauiwi|auckland|t[aā]maki|kirikiriroa|waikato|taranaki|whanganui|taup[oō]|k[aā]piti|Christchurch|[oō]tautahi|dunedin|[oō]tepoti|whakat[uū]|ahuriri|heretaunga|\\bnzer\\b|kikorangi|🇳🇿[[:blank:]]|🇳🇿$",
+            "value": "new zealand|\\bnz\\b|aotearoa|aonz|#kiwi|p[oō]neke|m[aā]ori|p[aā]keh[aā]|tauiwi|auckland|tāmaki|kirikiriroa|waikato|taranaki|whanganui|taup[oō]|k[aā]piti|Christchurch|[oō]tautahi|dunedin|[oō]tepoti|whakat[uū]|ahuriri|heretaunga|\\bnzer\\b|kikorangi|🇳🇿[[:blank:]]|🇳🇿$",
             "caseSensitive": false,
             "target": "text|alt_text|link"
         },
