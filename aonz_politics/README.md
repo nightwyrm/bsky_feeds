@@ -2,12 +2,12 @@
 This is a reader-friendly view of the AoNZ Politics feed filters. Note: keywords are not case-specific.
 
 ## Included Keywords
-The feed searches for these keywords in post text only.
+The feed searches for these specific tags in post text only.
 
-|Keywords|
+|Tags|
 |---|
-nzpol
 #nzpol
+#aonzpol
 
 ## Excluded Words
 The feed searches for these keywrods in post text, URLs, and image alt-text.

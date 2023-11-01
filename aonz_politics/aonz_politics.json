@@ -4,14 +4,12 @@
         {
             "id": "aaah34b7w5v3e",
             "type": "input",
-            "inputType": "firehose",
-            "firehoseSeconds": 604800
-        },
-        {
-            "id": "aaah34b7w4jfw",
-            "type": "regex",
-            "value": "\\bnzpol|#nzpol\\b",
-            "caseSensitive": false
+            "inputType": "tags",
+            "firehoseSeconds": 604800,
+            "tags": [
+                "nzpol",
+                " aonzpol"
+            ]
         },
         {
             "type": "regex",
