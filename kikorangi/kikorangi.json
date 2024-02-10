@@ -10,13 +10,13 @@
         {
             "id": "aaadfjfgucbiq",
             "type": "regex",
-            "value": "new zealand|^nz|aotearoa|aonz|#kiwi|pōneke|pooneke|māori|maaori|pākehā|paakehaa|tauiwi|auckland|tāmaki|taamaki|kirikiriroa|waikato|taranaki|whanganui|taupō|taupoo|kāpiti|kaapiti|Christchurch|ōtautahi|ootautahi|dunedin|ōtepoti|ootepoti|whakatū|whakatuu|ahuriri|heretaunga|^nzer|eqnz|kikorangi|🇳🇿[[:blank:]]|🇳🇿$",
+            "value": "new zealand|\bnz\b|\bnzl\b|aotearoa|aonz|#kiwi|pōneke|pooneke|māori|maaori|pākehā|paakehaa|tauiwi|auckland|tāmaki|taamaki|kirikiriroa|waikato|taranaki|whanganui|taupō|taupoo|kāpiti|kaapiti|Christchurch|ōtautahi|ootautahi|dunedin|ōtepoti|ootepoti|whakatū|whakatuu|ahuriri|heretaunga|\bnzer|eqnz|kikorangi|🇳🇿[[:blank:]]|🇳🇿$",
             "caseSensitive": false,
             "target": "text|alt_text|link"
         },
         {
             "type": "regex",
-            "value": "shooter|shooting|massacre|#nsfw|ar-15|mega.nz|nzpol|kiwifarms",
+            "value": "shooter|shooting|massacre|#nsfw|ar-15|mega.nz|nzpol|kiwifarms|nzqt",
             "caseSensitive": false,
             "id": "aaaegqbn2x4yg",
             "invert": true,
